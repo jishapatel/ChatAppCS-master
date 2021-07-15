@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mingle</string>
+    <string name="login_mobile_hint">Mobile Number</string>
+    <string name="login_otp_hint">OTP Number</string>
+    <string name="get_otp">GET OTP</string>
+    <string name="login_email_hint">Email</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment"> This part is from future enhancement.. Working on it!!</string>
+</resources>
